@@ -29,3 +29,6 @@ https://amasty.com/landing-pages-for-magento-2.html
 
 ## Product Attachments | Amasty
 https://amasty.com/product-attachments-for-magento-2.html
+
+## Magento 2 SEO Suite Ultimate
+https://www.mageworx.com/magento-2-seo-extension.html
