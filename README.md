@@ -32,3 +32,13 @@ https://amasty.com/product-attachments-for-magento-2.html
 
 ## Magento 2 SEO Suite Ultimate
 https://www.mageworx.com/magento-2-seo-extension.html
+
+## Image Slider module for Magento2
+https://github.com/czone-tech/magento2-slider
+
+Проблемы - выдает php ошибки в версии 7.1
+
+## Slider Revolution Responsive Magento Extension
+https://codecanyon.net/item/slider-revolution-responsive-magento-extension/9332896
+
+Входит в тему Porto, администрирование изображений, текстов, анимации. Предлагает множество функций управления, которые никогда не будут использованы, слишком тяжелый для простых слайдеров
