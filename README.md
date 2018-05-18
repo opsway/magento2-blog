@@ -41,4 +41,9 @@ https://github.com/czone-tech/magento2-slider
 ## Slider Revolution Responsive Magento Extension
 https://codecanyon.net/item/slider-revolution-responsive-magento-extension/9332896
 
-Входит в тему Porto, администрирование изображений, текстов, анимации. Предлагает множество функций управления, которые никогда не будут использованы, слишком тяжелый для простых слайдеров
+Входит в тему Porto, администрирование изображений, текстов, анимации. Предлагает множество функций управления, которые никогда не будут использованы, слишком тяжелый для простых слайдеров - платный!!!
+
+## Banner Slider Magento 2
+https://www.magestore.com/banner-slider-on-magento2.html
+
+Простой в большинстве случаев достаточными настройками, бесплатный слайдер
