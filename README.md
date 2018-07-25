@@ -47,3 +47,7 @@ https://codecanyon.net/item/slider-revolution-responsive-magento-extension/93328
 https://www.magestore.com/banner-slider-on-magento2.html
 
 Простой в большинстве случаев достаточными настройками, бесплатный слайдер
+
+## Authorize.Net CIM
+https://store.paradoxlabs.com/magento2-authorize-net-cim-payment-module.html
+Требует привязки к домену (в том числе к тестовым доменам)
